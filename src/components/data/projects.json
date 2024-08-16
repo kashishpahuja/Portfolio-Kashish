@@ -1,0 +1,26 @@
+[
+    {
+      "key": 1,
+      "title": "Daily Planner-To Do App",
+      "imageSrc": "projects/DailyPlanner.png",
+      "description": "This is a project made with Node JS and EJS.",
+      "demo": "https://drive.google.com/file/d/1CqnZKjKevSpMRHpNQSlISH6YRYfgzist/view?usp=sharing",
+      "source": "https://github.com/kashishpahuja/React-Todo-App"
+    },
+    {
+      "key": 2,
+      "title": "Employee Hub-MERN App",
+      "imageSrc": "projects/EmployeeHub.png",
+      "description": "This is a project made with React js and an external API server.",
+      "demo": "https://drive.google.com/file/d/194hdz8v8UVx6B6ajK5V99Mov6HjCrGGU/view?usp=sharing",
+      "source": "https://github.com/kashishpahuja/Employee-Hub-"
+    },
+    {
+      "key": 3,
+      "title": "CARA-Responsive Website",
+      "imageSrc": "projects/Cara.png",
+      "description": "This is a project made with HTML, CSS, Javascript.",
+      "demo": "https://drive.google.com/file/d/1BNv2M0zJqLgsmofKBwVJ_4BXk48IxosK/view?usp=sharing",
+      "source": "https://github.com/kashishpahuja/CARA-A-Responsive-Website-HTML-CSS-JS-"
+    }
+  ]

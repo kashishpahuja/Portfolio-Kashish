@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "role":"Intern [MERN Stack]",
+        "organization":"Netmax Technologies",
+        "startDate":"Jan, 2024",
+        "endDate":"Present",
+        "location":"Chandigarh",
+        "experiences":[
+            "Mastered JavaScript, HTML/CSS, MERN stack.",
+            "Built Streaming App with React.",
+            "Developed To-do App with Node and React."
+        ],
+        "imageSrc":"company/netmaxImage.png"
+    }
+]
